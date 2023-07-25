@@ -1,0 +1,10 @@
+Hamburguesa, 2.50
+Pizza, 5.99
+Hot dog, 1.25
+Orden Tacos, 3.50
+Kebab, 1.50
+Pan, 0.35
+CocaCola Vidrio, 1.25
+Matcha Tea, 1.75 
+Botella Agua, 0.40
+Torta Mixta, 3.25
